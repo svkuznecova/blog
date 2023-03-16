@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Кузнецова София
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: София
+last_name: Кузнецова
 
 # Status emoji
 status:
@@ -14,34 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Студент
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Российский университет дружбы народов
+    url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Студент прикладной информатики
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Информационные технологии
+  - Изобразительное искусство
+  - Плавание
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Прикладная информатика
+      institution: Российский университет дружбы народов
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +74,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Кузнецова София – родилась 23.08.2004г. в Калужской облаcти, городе Жуков. Гражданка РФ. Студентка бакалавриата Российского университета дружбы народов. Учусь на направлении прикладная информатика. До поступления в университет закончила художественную школу, занималась тхэквондо, плаваньем и танцами. Работала лаборантом в КНИРТИ.
 {style="text-align: justify;"}
