@@ -16,17 +16,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: 35%
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Communications
+          description: 95%
+          icon: handshake
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: YouTube
+          description: 55%
+          icon: video-camera
           icon_pack: fas
   - block: experience
     content:
@@ -40,27 +40,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Studying. Creating a website.
+          company: RUDN University
+          company_url: 'https://www.rudn.ru/'
+          company_logo: 
+          location: Moscow
+          date_start: '2023-04-07'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Adding information
+              * Specifyling special data
+              * Creating posts
+              
     design:
       columns: '2'
   - block: accomplishments
@@ -76,30 +69,23 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
+        - certificate_url: 
+          date_end: '2022-05-25'
+          date_start: '2011-09-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: School 12
+          organization_url: 
+          title: Graduation certificate with honors
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2022-09-01'
+          description: 
+          organization: RUDN
+          organization_url: https://www.rudn.ru/
+          title: Passing the session to "A"
+          url: https://www.rudn.ru/
+       
     design:
       columns: '2'
   - block: collection
