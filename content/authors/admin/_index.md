@@ -42,30 +42,22 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0009-0002-6324-7599
   - icon: github
     icon_pack: fab
-    link: https:https://github.com/
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
+    link: https://github.com/svkuznecova
+  - icon: mendeley
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.mendeley.com/search/
+  - icon: academia
+    icon_pack: ai
+    link: https://independent.academia.edu/СофияКузнецова9
+  - icon: youtube
+    icon_pack: fab
+    link: https://github.com/svkuznecova
+    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
